@@ -1,5 +1,7 @@
 # CG SCALE
 
+![alt text](https://github.com/tkristner/CG_SCALE/blob/main/CG_scale_render.png?raw=true)
+
 This is my CG scale based on Sparkfun hardware.
 
 Please bear with me if there are any mistakes.
