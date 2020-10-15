@@ -9,7 +9,7 @@ Do not hesitate to make pull requests.
 
 List of materials:
 
-- 2x Seeed LOAD CELL ( YZC-1B ) 0-3KG (if another loadcells fit any 4 wire analog loadcell is ok) please solder the loadcell foiled mass to avoid noise in analog signal.
+- 2x Seeed LOAD CELL ( YZC-1B ) 0-3KG (if another loadcells fit any 4 wire analog loadcell is ok) cells are fixed with 6mm metal screws. Please solder the loadcell foiled mass to avoid noise in analog signal.
 - 2x Sparkfun QWIIC SCALE - NAU7802
 - 1x SparkFun Thing Plus - ESP32 WROOM
 - 1x SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A)
