@@ -4,8 +4,12 @@
 
 This is my CG scale based on Sparkfun hardware.
 
-Please bear with me if there are any mistakes.
+The scale is totally dismountable.
+Arms are sliding to allow different fuselage width.
+Pads fits in the top holes and allow for multiple wing root size.
+LiPo battery allow mobility.
 
+Please bear with me if there are any mistakes.
 Do not hesitate to make pull requests.
 
 
