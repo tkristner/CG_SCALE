@@ -9,7 +9,6 @@ Arms are sliding to allow different fuselage width.
 Pads fits in the top holes and allow for multiple wing root size.
 LiPo battery allow mobility.
 
-Please bear with me if there are any mistakes.
 Do not hesitate to make pull requests.
 
 
